@@ -26,3 +26,6 @@ dependencies:
 - name: wordpress
   version: 9.0.3
   repository: https://charts.helm.sh/stable
+- name: test-chart
+  version: 0.1.0
+  repository: https://bonescorp.jfrog.io/artifactory/api/helm/bonescorp-helm
